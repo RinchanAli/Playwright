@@ -1,0 +1,18 @@
+{
+    "Valid Data":{
+        "username": "standard_user",
+        "password": "secret_sauce"
+    },
+    "Invalid UserName":{
+        "username": "secret_sauce",
+        "password": "secret_sauce"
+    },
+        "Invalid Password":{
+        "username": "standard_user",
+        "password": "standard_user"
+    },
+    "Empty Fields":{
+        "username": "",
+        "password": ""
+    }
+}
